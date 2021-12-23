@@ -3,7 +3,7 @@
     "footballplayer_name": "Hippo Runi",
     "offence_pts": 0.0,
     "defence_pts": 2.0,
-    "fairness": 90,
+    "fairness": 9,
     "salary": 1000000,
     "price": 2000000
   },
@@ -12,7 +12,7 @@
     "footballplayer_name": "Piccadilly Runi",
     "offence_pts": 2.0,
     "defence_pts": 0.0,
-    "fairness": 90,
+    "fairness": 9,
     "salary": 1000000,
     "price": 2000000
   },
@@ -21,7 +21,7 @@
     "footballplayer_name": "Eugene Portua",
     "offence_pts": 3.0,
     "defence_pts": 0.0,
-    "fairness": 60,
+    "fairness": 6,
     "salary": 1000000,
     "price": 2000000
   },
