@@ -3,13 +3,13 @@ import pickle
 
 
 class Footballplayer(object):
-    def __init__(self, footballplayer_id, footballplayer_name, offence_pts, defense_pts, fairness, salary, price):
+    def __init__(self, footballplayer_id, footballplayer_name, wp_offense, wp_defense, fairness, salary, price):
 
         self.footballplayer_id = footballplayer_id
         self.footballplayer_name = footballplayer_name
 
-        self.offence_pts = offence_pts
-        self.defense_pts = defense_pts
+        self.wp_offence = wp_offense
+        self.wp_defense = wp_defense
         self.fairness = fairness
         self.salary = salary
         self.price = price

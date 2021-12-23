@@ -2,7 +2,6 @@ import json
 import Footballplayer
 
 
-
 # creates a dictionary with all player objects
 # access with player_obj_dict[0].footballplayer_name, player_obj_dict[0].update_player_matchday(1), etc
 def create_footballplayer_class_objs(filename="data/database/player_database.json"):
